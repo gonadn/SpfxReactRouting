@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactTest/ReactTestWebPart.js",
+      "manifest": "./src/webparts/reactTest/ReactTestWebPart.manifest.json",
+      "outputPath": "./dist/react-test-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "ReactTestWebPartStrings": "webparts/reactTest/loc/{locale}.js"
+  }
+}

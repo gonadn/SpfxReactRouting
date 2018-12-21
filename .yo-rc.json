@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.7.0",
+    "libraryName": "react-test",
+    "libraryId": "50a9981c-7d46-42f4-b480-3bb99d7b44d8",
+    "environment": "onprem",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "webpart"
+  }
+}

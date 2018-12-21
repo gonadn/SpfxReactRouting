@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-test-client-side-solution",
+    "id": "50a9981c-7d46-42f4-b480-3bb99d7b44d8",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-test.sppkg"
+  }
+}
